@@ -2,7 +2,7 @@
 
 ## Author: Daniela Vornic, FAF-222
 
-## Objectives:
+## Objectives
 
 - **Task 1.** Write a program that would perform different actions when receiving `SIGUSR1` and `SIGUSR2`.
   - When receiving `SIGUSR1`, the program should display that `SIGUSR1` was received.
@@ -357,11 +357,7 @@ while(running) {
 }
 ```
 
-Consumers are simpler than producers as they:
-
-- Open the FIFO in read-only mode;
-- Read messages continuously;
-- Don't require semaphore access.
+Consumers are simpler than producers as they only read messages from the FIFO. They display the consumer ID, the consumed value, and the producer ID. They do not require semaphore control.
 
 ## Screenshots & Results
 
