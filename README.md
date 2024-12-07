@@ -7,3 +7,4 @@ Laboratory Works on Operating Systems at TUM.
 ## Table of Contents
 
 - [Laboratory 3-4](lab_4/README.md)
+- [Laboratory 5](lab_5/README.md)
