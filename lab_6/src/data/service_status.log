@@ -1,0 +1,5 @@
+2024-12-08 17:31:15 - Service docker is running normally.
+2024-12-08 17:31:16 - Service rabbitmq is running normally.
+2024-12-08 17:31:17 - Service systemd-update-utmp is running normally.
+2024-12-08 17:31:18 - Service snapd is not running. Attempting to restart.
+2024-12-08 17:31:18 - Successfully restarted service snapd

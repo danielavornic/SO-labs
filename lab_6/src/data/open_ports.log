@@ -1,0 +1,30 @@
+2024-12-08 18:58:53 - Beginning port scan...
+2024-12-08 18:58:53 - Found tcp port 631 (Process: cupsd
+cupsd)
+WARNING: Unexpected port 631 is open (tcp - cupsd
+cupsd)
+2024-12-08 18:58:53 - Found tcp port 25672 (Process: beam.smp)
+WARNING: Unexpected port 25672 is open (tcp - beam.smp)
+2024-12-08 18:58:53 - Found tcp port 15672 (Process: beam.smp)
+WARNING: Unexpected port 15672 is open (tcp - beam.smp)
+2024-12-08 18:58:53 - Found tcp port 4369 (Process: epmd
+epmd)
+WARNING: Unexpected port 4369 is open (tcp - epmd
+epmd)
+2024-12-08 18:58:53 - Found tcp port 5672 (Process: beam.smp)
+WARNING: Unexpected port 5672 is open (tcp - beam.smp)
+2024-12-08 18:58:53 - Found tcp port 5432 (Process: postgres
+postgres)
+2024-12-08 18:58:53 - Found tcp port 631 (Process: cupsd
+cupsd)
+WARNING: Unexpected port 631 is open (tcp - cupsd
+cupsd)
+2024-12-08 18:58:53 - Found tcp port 1716 (Process: kdeconnectd
+kdeconnectd)
+WARNING: Unexpected port 1716 is open (tcp - kdeconnectd
+kdeconnectd)
+2024-12-08 18:58:53 - Found tcp port 4369 (Process: epmd
+epmd)
+WARNING: Unexpected port 4369 is open (tcp - epmd
+epmd)
+2024-12-08 18:58:53 - Scan completed

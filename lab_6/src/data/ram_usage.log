@@ -1,0 +1,21 @@
+Starting RAM usage monitoring for 10 minutes...
+2024-12-08 18:51:45 - Total: 15798MB, Used: 14378MB, Free: 779MB, Usage: 91%
+2024-12-08 18:51:45 - ALERT: Memory usage is at 91% (exceeds 50%)
+2024-12-08 18:52:45 - Total: 15798MB, Used: 14425MB, Free: 789MB, Usage: 91%
+2024-12-08 18:52:45 - ALERT: Memory usage is at 91% (exceeds 50%)
+2024-12-08 18:53:45 - Total: 15798MB, Used: 14357MB, Free: 772MB, Usage: 90%
+2024-12-08 18:53:45 - ALERT: Memory usage is at 90% (exceeds 50%)
+2024-12-08 18:54:45 - Total: 15798MB, Used: 14135MB, Free: 991MB, Usage: 89%
+2024-12-08 18:54:45 - ALERT: Memory usage is at 89% (exceeds 50%)
+2024-12-08 18:55:45 - Total: 15798MB, Used: 14209MB, Free: 916MB, Usage: 89%
+2024-12-08 18:55:45 - ALERT: Memory usage is at 89% (exceeds 50%)
+2024-12-08 18:56:45 - Total: 15798MB, Used: 14366MB, Free: 757MB, Usage: 90%
+2024-12-08 18:56:45 - ALERT: Memory usage is at 90% (exceeds 50%)
+2024-12-08 18:57:45 - Total: 15798MB, Used: 14253MB, Free: 861MB, Usage: 90%
+2024-12-08 18:57:45 - ALERT: Memory usage is at 90% (exceeds 50%)
+2024-12-08 18:58:45 - Total: 15798MB, Used: 14092MB, Free: 1004MB, Usage: 89%
+2024-12-08 18:58:45 - ALERT: Memory usage is at 89% (exceeds 50%)
+2024-12-08 18:59:45 - Total: 15798MB, Used: 14363MB, Free: 706MB, Usage: 90%
+2024-12-08 18:59:45 - ALERT: Memory usage is at 90% (exceeds 50%)
+2024-12-08 19:00:45 - Total: 15798MB, Used: 14283MB, Free: 777MB, Usage: 90%
+2024-12-08 19:00:45 - ALERT: Memory usage is at 90% (exceeds 50%)
