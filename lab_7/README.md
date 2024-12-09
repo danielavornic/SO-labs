@@ -196,7 +196,7 @@ _Figure 37: Robot notebook_
 I tried different combinations to assembly the robot using the combination "delta beta alpha gamma", confirmed by the `sha256sum` check. Following the instructions, I made the robot executable. However, it went badly and I lost again.
 
 ![Robot](screenshots/robot-over.png)
-_Figure 39: Robot over_
+_Figure 38: Robot over_
 
 I went back to get my corpse, went into the arena pit this time, but got stuck trying to defeat the Nyarlathote.
 
